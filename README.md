@@ -1,1 +1,1 @@
-# mathproject
+스도쿠 판.
